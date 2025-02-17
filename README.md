@@ -34,3 +34,30 @@ Estou sempre em busca de novos desafios para aprender e aplicar soluções inova
 📫 Como me encontrar:
 
 LinkedIn: https://www.linkedin.com/in/gl%C3%B3ria-andrade-b63b02225/
+
+
+![Gloria GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryOFangel04&show_icons=true&theme=radical)
+
+
+## Tecnologias que eu mais uso
+
+<div style="display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img align="center" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+
+
+## tecologias que estou aprendendo 
+
+<div style="display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+   
+</div>
+
+
