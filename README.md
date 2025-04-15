@@ -27,7 +27,7 @@ e projetos fullstacks
 Integração de dados usando Power Automate para automatizar fluxos de trabalho com Excel e SharePoint.
 Desenvolvimento de um mini-game em HTML, CSS e JavaScript para praticar minhas habilidades em desenvolvimento web.
 
-⚡ Curiosidades: no meu tempo livre faõ resenhas de livros e modelagens 3d, sera que um jogo 3d vem ai ?...
+⚡ Curiosidades: no meu tempo livre faço resenhas de livros e modelagens 3d, sera que um jogo 3d vem ai ?...
 
 Acredito em melhorar processos e otimizar tarefas diárias com a ajuda da tecnologia.
 Estou sempre em busca de novos desafios para aprender e aplicar soluções inovadoras.
